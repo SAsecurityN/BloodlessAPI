@@ -1,4 +1,12 @@
-![BloodlessAPI](app_icon.png)
+<p align="center">
+  <img src="app_icon.png" alt="BloodlessAPI" width="120">
+</p>
+
+<h1 align="center">BloodlessAPI</h1>
+
+<p align="center">
+  Offline API surface mapper
+</p>
 
 ### Disclaimer
 
