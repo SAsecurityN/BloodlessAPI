@@ -27,7 +27,7 @@ By using this software, you agree that you will not use it for any illegal or un
 
 ### Installation + Usage:
 ```
-git clone https://github.com/YOUR_USERNAME/BloodlessAPI.git
+git clone https://github.com/SAsecurityN/BloodlessAPI.git
 cd BloodlessAPI
 
 # Run the app:
